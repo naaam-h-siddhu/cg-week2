@@ -1,6 +1,5 @@
 package UniversityWithFacultiesAndDepartments;
 
-import com.sun.security.jgss.GSSUtil;
 
 public class Faculty {
     private int facultyId;
