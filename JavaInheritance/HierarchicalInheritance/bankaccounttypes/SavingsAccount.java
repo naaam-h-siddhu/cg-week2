@@ -1,4 +1,4 @@
-package BankAccountTypes;
+package bankaccounttypes;
 
 public class SavingsAccount extends BankAccount{
     private double interestRate;

@@ -1,4 +1,4 @@
-package BankAccountTypes;
+package bankaccounttypes;
 
 public class BankAccount {
     private long accountNumber;

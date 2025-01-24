@@ -1,4 +1,4 @@
-package BankAccountTypes;
+package bankaccounttypes;
 
 public class FixedDepositAccount extends BankAccount {
     private int durationInMonth;

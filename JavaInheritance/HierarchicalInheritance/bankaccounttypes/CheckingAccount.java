@@ -1,4 +1,4 @@
-package BankAccountTypes;
+package bankaccounttypes;
 
 public class CheckingAccount extends BankAccount{
     private int withdrawalLimit;
