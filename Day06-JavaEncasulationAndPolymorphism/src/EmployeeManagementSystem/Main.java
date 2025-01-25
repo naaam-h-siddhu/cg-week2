@@ -13,7 +13,7 @@ public class Main {
         employees.add(emp1);
         employees.add(emp2);
         for(Employee employee : employees){
-            
+
             employee.displayDetails();
             System.out.println();
         }
