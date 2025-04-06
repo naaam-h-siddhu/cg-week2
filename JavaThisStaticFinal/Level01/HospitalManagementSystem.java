@@ -10,7 +10,6 @@ public class HospitalManagementSystem {
         }
     }
 }
-
 class Patient{
     private static String hospitalName = "AIIMS";
     private String name;
